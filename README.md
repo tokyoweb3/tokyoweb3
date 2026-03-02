@@ -27,12 +27,13 @@ Based in Tokyo.
 
 ### `> cat projects.md`
 
-| Project | Role | Description | Tech |
-|---------|------|-------------|------|
-| [**LazyGravity**](https://github.com/tokyoweb3/LazyGravity) | Founder | Discord bot for remote AI agent operation — control your home PC from anywhere | `TypeScript` `Discord.js` `CDP` |
-| [**Harvest Flow**](https://www.harvestflow.io/) | CTO | NFT-Fi lending platform — DeFi beyond mere financial returns | `TypeScript` `Solidity` `Paima` |
-| [**Harvest Hall**](https://apasport.xyz/) | CTO | Decentralized cultural media platform | `TypeScript` `Web3` |
-| [**M-Governance**](https://github.com/tokyoweb3/M-Governance) | Founder | Modular on-chain voting platform on Substrate / Polkadot | `Rust` `Substrate` `Polkadot` |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**LazyGravity**](https://github.com/tokyoweb3/LazyGravity) | Discord bot for remote AI agent operation — control your home PC from anywhere | `TypeScript` `Discord.js` `CDP` |
+| [**Harvest Flow**](https://www.harvestflow.io/) | NFT-Fi lending platform — DeFi beyond mere financial returns | `TypeScript` `Solidity` `Paima` |
+| [**Custom Wraps**](https://customwraps.harvestflow.io/) | Custom wrapping service powered by Harvest Flow | `TypeScript` `Web3` |
+| [**Harvest Hall**](https://apasport.xyz/) | Decentralized cultural media platform | `TypeScript` `Web3` |
+| [**M-Governance**](https://github.com/tokyoweb3/M-Governance) | Modular on-chain voting platform on Substrate / Polkadot | `Rust` `Substrate` `Polkadot` |
 
 ---
 
@@ -80,12 +81,12 @@ Based in Tokyo.
 ### `> neofetch`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokyoweb3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tokyoweb3&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tokyoweb3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=tokyoweb3&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyoweb3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tokyoweb3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 </p>
 
 ---
