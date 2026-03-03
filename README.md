@@ -30,7 +30,7 @@ Based in Tokyo.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**LazyGravity**](https://github.com/tokyoweb3/LazyGravity) | Discord bot for remote AI agent operation — control your home PC from anywhere | `TypeScript` `Discord.js` `CDP` |
-| [**Harvest Flow**](https://www.harvestflow.io/) | NFT-Fi lending platform — DeFi beyond mere financial returns | `TypeScript` `Solidity` `Paima` |
+| [**Harvest Flow**](https://www.harvestflow.io/) | NFT-Fi lending platform — DeFi beyond mere financial returns | `TypeScript` `Solidity` `Aiken` |
 | [**Custom Wraps**](https://customwraps.harvestflow.io/) | Custom wrapping service powered by Harvest Flow | `TypeScript` `Web3` |
 | [**Harvest Hall**](https://apasport.xyz/) | Decentralized cultural media platform | `TypeScript` `Web3` |
 | [**M-Governance**](https://github.com/tokyoweb3/M-Governance) | Modular on-chain voting platform on Substrate / Polkadot | `Rust` `Substrate` `Polkadot` |
